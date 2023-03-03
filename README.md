@@ -13,6 +13,7 @@
 You can build your embed messages and send them with a webhook to your channel without any bot oslt.        
 <a href="#content"><img src="https://img.shields.io/badge/Back%20to%20Top-%20-blue"></a>
 
+if you have any ideas what to improve please [text](#author) me
 
 
 
